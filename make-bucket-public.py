@@ -1,5 +1,6 @@
 from google.cloud import storage
 
+# Add the name of your bucket here
 bucket_name = '<the_name_of_your_bucket>'
 my_bucket = client.get_bucket(bucket_name)
 

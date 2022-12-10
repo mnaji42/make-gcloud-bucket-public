@@ -23,6 +23,8 @@ gcloud auth application-default login
 
 ## Make your bucket public
 
+Add the name of your bucket in the variable `bucket_name`
+
 Run the following command and it's done:
 
 ```
