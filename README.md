@@ -1,4 +1,4 @@
-# make-google-cloud-bucket-public
+# Make your gcloud bucket public
 
 ## Prerequisite
 
